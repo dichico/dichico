@@ -1,8 +1,11 @@
 # Hi, I'm Diogo Araújo 👋🏻
 
-I'm a Software Developer and a lover of trying and exploring new technologies. I'm from Portugal and I have a Masters in Software Engineering. In the University of Minho, I specialized in Data Engineering, learning various ways of transforming raw data into information, with a focus in SQL, Python, noSQL and ETL processes. Another speciality is Cybersecurity with a focus for Cryptography practicing Public Key and symmetrical crypto.
+With a Master's Degree in Software Engineering and want to use my time with new work learnings and exploring new technologies, being available to work on my specialized field (tech, cyber-security and databases). 
+In the University of Minho, I specialized in Data Engineering, learning various ways of transforming raw data into information, with a focus in SQL, Python, noSQL and ETL processes. Another speciality is Cybersecurity with a focus for Cryptography practicing Public Key and symmetrical crypto.
 
-Currently, I'm a trainee in SONAE, one of the biggest companies of Portugal, my home country. With a focus in Cloud Engineering, Big Data solutions envolving petabytes of data and delivering present and future proof solutions to the various businesses that SONAE encompasses.
+After finishing college, I entered a traineeship in SONAE, one of the biggest companies of Portugal, my home country. With a focus in Cloud Engineering, Big Data solutions envolving petabytes of data and delivering present and future proof solutions to the various businesses that SONAE encompasses.
+
+Right now, I'm working in Critical Techworks - BMW Group improving the Data, Cloud and DevOps frameworks and pipelines that this mega automotive company encompasses.
 
 ### :gear: Technologies and Tools
 
